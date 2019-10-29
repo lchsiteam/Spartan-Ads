@@ -47,4 +47,5 @@ body {
 .left {
   text-align:left;
   margin:auto;
+  margin-left: 50px;
 }
