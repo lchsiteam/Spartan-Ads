@@ -44,3 +44,6 @@ body {
 .genericBtn:active {
   background: #980021;
 }
+.left {
+  text-align:left;
+}
