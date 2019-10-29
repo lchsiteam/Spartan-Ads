@@ -47,8 +47,8 @@ body {
 .left {
   text-align:left;
   margin:auto;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 .bottom {
  margin-bottom:50px; 
