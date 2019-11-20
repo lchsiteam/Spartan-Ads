@@ -1,4 +1,4 @@
-# Spartan-Ads
+# Spartan Ads
 
 What if... all iTeam services had ads?
 
